@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+
+h2 { 
+    text-align: center;
+    color: darkblue;
+
+}
+table{
+    border: 2px solid darkblue;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+}
+
+tr {
+    display: table-row;
+    vertical-align: auto;
+
+}
+
+th {
+    font-weight: bold;
+}
+
+td{
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.code{
+    font-family: monospace;
+}
+
+
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+}
