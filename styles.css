@@ -16,6 +16,7 @@ table{
 thead {
     display: table-header-group;
     vertical-align: middle;
+    background-color: lightblue;
 }
 
 tr {
@@ -42,3 +43,30 @@ tbody{
     display: table-row-group;
     vertical-align: middle;
 }
+
+.git{
+    padding-top: 50px;
+
+}
+
+.git h1{
+    text-align: center;
+}
+
+
+.git h2{
+    color: black;
+    font-size: 20px;
+}
+
+.git td{
+    text-align: left;
+    
+}
+
+.cmdWay{
+    text-align: left;
+    padding-left: 307px;
+    margin-bottom: 5px;
+}
+
